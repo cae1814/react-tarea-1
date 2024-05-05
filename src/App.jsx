@@ -20,7 +20,7 @@ function App() {
     } else {
       document.getElementById("n0").value = parseInt(document.getElementById("n2").value) - parseInt(document.getElementById("n1").value);
     }
-  }
+  } 
 
   return (
     <>
